@@ -1,0 +1,14 @@
+import math
+"math" package contains some of the ff mathematical functions
+Let x the variable
+sqrt(x)	# square root of x
+exp(x)	# e raise to exponent x or e^x
+log(x)	# natural logarithm of x or loge(x) = ln x
+log10(x)	# common logarithm of x log10x
+cos(x)	# cosine (x)
+pow	# pow(x,y) = x^y
+degrees	# degrees(x) = pi/180 x
+radians	# radians(x) = 180/pi x
+fabs 	# fabs(x) = |x|
+pi	# pi = 3.1416
+e 	# e
