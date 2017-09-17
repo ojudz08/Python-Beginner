@@ -1,0 +1,6 @@
+print("\nExercise 3. Classify each of the following expressions as legal or illegal. Each expression represents a call to a standard Python library function.")
+print("\n(a) math.sqrt(4.5) - legal\nThis gives square root of 4.5 = 2.1213")
+print("\n(b) math.sqrt(4.5, 3.1) - illegal\nError appears, the sqrt() takes exactly one argument, there are 2 given")
+print("\n(c) random.rand(4) - illegal\nError appears, the module random has no attribute rand")
+print("\n(d) random.seed() - legal\nNo error, tried to input random.seed() and use it on different program, it works with or without seed number, + or -")
+print("\n(e) random.seed(-1) - legal\nNo error, same as d")
