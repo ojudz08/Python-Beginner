@@ -1,0 +1,10 @@
+print("\nExercise 1. Is the following a legal Python program?\n")
+print("def proc(x):")
+print("    return x + 2\n")
+print("def proc(n):")
+print("    return 2*n + 1\n")
+print("def main():")
+print("    x = proc(5)\n")
+print("main()\n")
+
+print("No, since two functions used proc in its definition.")
